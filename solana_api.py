@@ -63,7 +63,7 @@ class SolanaRPCManager:
 class SolscanAPIManager:
     def __init__(self):
         self.base_url = "https://pro-api.solscan.io"
-        self.api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkQXQiOjE3MzM2ODc2MjExMjMsImVtYWlsIjoic3ByYXkta2xlaWRlcjB5QGljbG91ZC5jb20iLCJhY3Rpb24iOiJ0b2tlbi1hcGkiLCJhcGlWZXJzaW9uIjoidjIiLCJpYXQiOjE3MzM2ODc2MjF9.Ehi-NUuiHCpPegfMxFTthdTKz9pjYk7Jr8L7ShEgCg0"
+        self.api_key = "APIKEY"
         self.headers = {
             "Content-Type": "application/json",
             "token": self.api_key
