@@ -1,28 +1,8 @@
-2024-12-08 17:13:11,461 - solana_api - ERROR - Error with RPC https://api.mainnet-beta.solana.com: name 'aiohttp' is not defined
-2024-12-08 17:13:12,461 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: name 'aiohttp' is not defined
-2024-12-08 17:13:13,476 - solana_api - ERROR - Error with RPC https://rpc.ankr.com/solana: name 'aiohttp' is not defined
-2024-12-08 17:13:14,481 - solana_api - ERROR - Error with RPC https://mainnet.rpcpool.com: name 'aiohttp' is not defined
-2024-12-08 17:13:15,487 - solana_api - ERROR - Error with RPC https://solana-mainnet.rpc.extrnode.com: name 'aiohttp' is not defined
-2024-12-08 17:13:16,508 - solana_api - ERROR - Error with RPC https://api.mainnet-beta.solana.com: name 'aiohttp' is not defined
-2024-12-08 17:13:17,514 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: name 'aiohttp' is not defined
-2024-12-08 17:13:18,519 - solana_api - ERROR - Error with RPC https://rpc.ankr.com/solana: name 'aiohttp' is not defined
-2024-12-08 17:13:19,528 - solana_api - ERROR - Error with RPC https://mainnet.rpcpool.com: name 'aiohttp' is not defined
-2024-12-08 17:13:20,535 - solana_api - ERROR - Error with RPC https://solana-mainnet.rpc.extrnode.com: name 'aiohttp' is not defined
-2024-12-08 17:13:21,543 - solana_api - ERROR - Error with RPC https://api.mainnet-beta.solana.com: name 'aiohttp' is not defined
-2024-12-08 17:13:22,548 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: name 'aiohttp' is not defined
-2024-12-08 17:13:23,569 - solana_api - ERROR - Error with RPC https://rpc.ankr.com/solana: name 'aiohttp' is not defined
-2024-12-08 17:13:24,575 - solana_api - ERROR - Error with RPC https://mainnet.rpcpool.com: name 'aiohttp' is not defined
-2024-12-08 17:13:25,582 - solana_api - ERROR - Error with RPC https://solana-mainnet.rpc.extrnode.com: name 'aiohttp' is not defined
-2024-12-08 17:13:26,594 - solana_api - ERROR - All RPC endpoints exhausted
-2024-12-08 17:14:18,544 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:14:40,650 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
-2024-12-08 17:14:42,748 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:15:04,815 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
-2024-12-08 17:15:06,663 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:15:28,717 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
-2024-12-08 17:15:31,656 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:15:53,716 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
-2024-12-08 17:15:56,544 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:16:18,600 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
-2024-12-08 17:16:20,924 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
-2024-12-08 17:16:42,986 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
+2024-12-08 21:37:45,828 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
+2024-12-08 21:38:07,896 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
+2024-12-08 21:38:09,839 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
+2024-12-08 21:38:31,902 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
+2024-12-08 21:38:33,825 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
+2024-12-08 21:38:55,890 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]
+2024-12-08 21:39:00,769 - solana_api - WARNING - Rate limit reached for https://api.mainnet-beta.solana.com, switching RPC...
+2024-12-08 21:39:22,819 - solana_api - ERROR - Error with RPC https://solana-api.projectserum.com: Cannot connect to host solana-api.projectserum.com:443 ssl:default [Das Zeitlimit für die Semaphore wurde erreicht]

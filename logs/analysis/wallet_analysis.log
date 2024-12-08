@@ -1,4 +1,12 @@
-2024-12-08 17:13:26,598 - wallet_analysis - INFO - Analyzing 0 wallets in the last 30 days
-2024-12-08 17:13:26,598 - wallet_analysis - INFO - Analysis complete. Found 0 top traders
-2024-12-08 17:15:30,287 - wallet_analysis - INFO - Analyzing 10 wallets in the last 30 days
-2024-12-08 17:16:44,676 - wallet_analysis - INFO - Analysis complete. Found 0 top traders
+2024-12-08 21:38:57,456 - wallet_analysis - INFO - Analyzing 10 wallets in the last 30 days
+2024-12-08 21:38:58,205 - wallet_analysis - WARNING - Failed to retrieve historical balance for GUvRSvhhQRA1PhTpMaqW5hELHcPP9QP4W45tHFEbtqRi
+2024-12-08 21:38:59,683 - wallet_analysis - WARNING - Failed to retrieve historical balance for sBcuGeMJCRkdtMNgskLTX7MePb4CzCqZuyMKDrcPP8v
+2024-12-08 21:39:23,935 - wallet_analysis - WARNING - Failed to retrieve transaction data for Vote111111111111111111111111111111111111111
+2024-12-08 21:39:25,035 - wallet_analysis - WARNING - Failed to retrieve transaction data for ubmPuSVEsbd4W2gi85u8ZPisUNRUTVMXNCTR8AxDaxY
+2024-12-08 21:39:26,158 - wallet_analysis - WARNING - Failed to retrieve transaction data for SUN1nYpPJVjd3gKnDACdaUVL53LJaXR9u8e9i1jkZ3a
+2024-12-08 21:39:27,271 - wallet_analysis - WARNING - Failed to retrieve transaction data for 9cDdzkrimGrsNVKKRtN2Q1ydBwDxjDtPGyyLRgnUYyAQ
+2024-12-08 21:39:28,371 - wallet_analysis - WARNING - Failed to retrieve transaction data for H1ScoL1TosVSRvJgARRnMs9extCdXZRWdKRqY4H7k3ik
+2024-12-08 21:39:29,470 - wallet_analysis - WARNING - Failed to retrieve transaction data for AfixFcaayCMtTt9s8kg8Nrm12D37yHU1J9ePDRphSof8
+2024-12-08 21:39:30,577 - wallet_analysis - WARNING - Failed to retrieve transaction data for AtBb8cCroMeGNhiF2H5eAzfqnHLn6jS5mZtWFhszwKnp
+2024-12-08 21:39:31,685 - wallet_analysis - WARNING - Failed to retrieve transaction data for sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW
+2024-12-08 21:39:32,691 - wallet_analysis - INFO - Analysis complete. Found 0 top traders
