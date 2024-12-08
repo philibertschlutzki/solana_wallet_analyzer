@@ -47,12 +47,6 @@ Der Analyzer erstellt folgende Log-Dateien:
 
 Beiträge zum Projekt sind willkommen. Bitte erstellen Sie einen Pull Request oder eröffnen Sie ein Issue für Vorschläge und Fehlermeldungen.
 
-## 📄 Lizenz
-
-[Hier Ihre gewählte Lizenz einfügen]
-
-***
-
 **Beispiel-Ausgabe:**
 
 ```
@@ -63,7 +57,3 @@ Last activity: 2023-12-08 15:30:45
 Profit: 12.5%
 --------------------------------------------------
 ```
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42678744/fbd38999-5d12-4858-a2c1-b44413f62060/main.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/42678744/dcd5f7b0-9acc-4401-af61-a9446215505c/wallet_analysis.py
