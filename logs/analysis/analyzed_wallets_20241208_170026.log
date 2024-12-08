@@ -1,0 +1,11 @@
+2024-12-08 17:00:30,703 - analyzed_logger - INFO - Analysis Results
+2024-12-08 17:00:30,704 - analyzed_logger - INFO - [
+  {
+    "address": "GjLM4KzHZq1KLDStTEhTwdjypeAbb3Cj3QgadepkUtck",
+    "transaction_count": 1000,
+    "last_activity": "2024-12-08 17:00:04",
+    "profit": 0.0,
+    "current_balance": 40.052717788,
+    "balance_change_30d": 0
+  }
+]

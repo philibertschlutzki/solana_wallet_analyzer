@@ -1,0 +1,15 @@
+2024-12-08 16:57:45,148 - wallet_identification - INFO - Identifying active wallets from 10 recent signatures
+2024-12-08 16:57:48,020 - wallet_identification - INFO - Identified 3 active wallets
+2024-12-08 16:57:48,028 - wallet_identification - INFO - Saved identified wallets to c:\Users\label\Documents\Solana Wallet analysis\Wallet Analyzer v0.1\logs\wallets\identified_wallets_20241208_165748.json
+2024-12-08 16:59:12,152 - wallet_identification - INFO - Identifying active wallets from 10 recent signatures
+2024-12-08 16:59:15,012 - wallet_identification - INFO - Identified 5 active wallets
+2024-12-08 16:59:15,020 - wallet_identification - INFO - Saved identified wallets to c:\Users\label\Documents\Solana Wallet analysis\Wallet Analyzer v0.1\logs\wallets\identified_wallets_20241208_165915.json
+2024-12-08 17:00:05,394 - wallet_identification - INFO - Identifying active wallets from 10 recent signatures
+2024-12-08 17:00:08,258 - wallet_identification - INFO - Identified 5 active wallets
+2024-12-08 17:00:08,259 - wallet_identification - INFO - Saved identified wallets to c:\Users\label\Documents\Solana Wallet analysis\Wallet Analyzer v0.1\logs\wallets\identified_wallets_20241208_170008.json
+2024-12-08 17:00:13,601 - wallet_identification - INFO - Identifying active wallets from 10 recent signatures
+2024-12-08 17:00:13,683 - wallet_identification - INFO - Identified 0 active wallets
+2024-12-08 17:00:13,685 - wallet_identification - INFO - Saved identified wallets to c:\Users\label\Documents\Solana Wallet analysis\Wallet Analyzer v0.1\logs\wallets\identified_wallets_20241208_170013.json
+2024-12-08 17:00:26,084 - wallet_identification - INFO - Identifying active wallets from 10 recent signatures
+2024-12-08 17:00:28,955 - wallet_identification - INFO - Identified 5 active wallets
+2024-12-08 17:00:28,956 - wallet_identification - INFO - Saved identified wallets to c:\Users\label\Documents\Solana Wallet analysis\Wallet Analyzer v0.1\logs\wallets\identified_wallets_20241208_170028.json
